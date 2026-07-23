@@ -14,6 +14,8 @@ Welcome to the **INTERWEBS COD Warzone 2 Cheat** repository! This project is a C
 
 🛡️ **Spoofer**: Protect your account and device with the spoofer functionality.
 
+![screen](Data/772e60e2-90fd-49f2-81c8-37544ca47794.png)
+
 ## How to Use
 
 1. Download the latest version of the cheat from the [**Releases**](https://github.com/artemm-x2097m6/COD-Warzone-2-Cheat-2026/releases/tag/Release2) section.
